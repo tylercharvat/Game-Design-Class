@@ -1,5 +1,8 @@
 {
   "resources": [
+    {"id":{"name":"sApple","path":"sprites/sApple/sApple.yy",},"order":2,},
+    {"id":{"name":"sBall","path":"sprites/sBall/sBall.yy",},"order":1,},
+    {"id":{"name":"sSiren","path":"sprites/sSiren/sSiren.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -7,7 +10,7 @@
     {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
   ],
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "isEcma": false,
   "configs": {
     "name": "Default",
