@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(x>0 and not landed){
-	x = x - 8
-}
+y=0;
+x=32;
+alarm[0] = room_speed;
+var landed = false;

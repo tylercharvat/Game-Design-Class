@@ -1,5 +1,7 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function sPiece(){
-	y = y + delta_time/10000;
+	if(y<144){
+		y = y + 8;
+	}
 }

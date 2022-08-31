@@ -1,4 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-sPiece();
+if(y>=144){
+	landed = true;
+}
+else{
+	landed = false;
+}
